@@ -199,6 +199,7 @@ We may update this privacy notice from time to time. The updated version will be
 If you have questions or comments about this notice, you may email us at lalremlian.dev@gmail.com or by post to: 
 
 Lalrem Lian B Tlung
+
 Dhaka, Bangladesh
 
 Bangladesh
