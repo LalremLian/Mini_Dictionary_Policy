@@ -11,7 +11,7 @@ This privacy notice for Lalrem Lian B Tlung ("**Company**," "**we**," "**us**," 
 
 - Engage with us in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at lalremlian.dev@gmail.com.
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at lazy.developer@techie.com.
 
 
 #### SUMMARY OF KEY POINTS
@@ -173,7 +173,7 @@ depending on the applicable law, you have the right to withdraw your consent at 
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-If you have questions or comments about your privacy rights, you may email us at lalremlian.dev@gmail.com.
+If you have questions or comments about your privacy rights, you may email us at lazy.developer@techie.com.
 
 #### 9.	CONTROLS FOR DO-NOT-TRACK FEATURES
 
@@ -196,10 +196,6 @@ If you are under 18 years of age, reside in California, and have a registered ac
 We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 
 #### 12.	HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-If you have questions or comments about this notice, you may email us at lalremlian.dev@gmail.com or by post to: 
+If you have questions or comments about this notice, you may email us at lazy.developer@techie.com or by post to: 
 
 Lalrem Lian B Tlung
-
-Dhaka, Bangladesh
-
-Bangladesh
